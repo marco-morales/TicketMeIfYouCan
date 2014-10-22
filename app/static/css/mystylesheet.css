@@ -1,0 +1,22 @@
+
+
+
+.jumbotron{
+	height: 530px ;
+ 	background-image: url('http://31.media.tumblr.com/0014420c241fe77851c95be2f179051a/tumblr_mrrri1Z8Ja1qazanuo1_1280.jpg') ;
+}
+
+
+.input[type="address"] {
+  width : 100px ;
+}
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
+

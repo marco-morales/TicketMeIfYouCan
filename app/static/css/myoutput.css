@@ -1,0 +1,32 @@
+
+.progress{
+	height: 30px;
+	background-color: #C5E4F7;
+  	-webkit-box-shadow: none;
+	box-shadow: none;
+	font-size: 40px;
+}
+
+.left{
+	float: left; 
+}
+
+.right{
+	float: right;
+}
+
+progress-value {
+	position: absolute;
+    left: 0;
+    width: 100%;
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+
+.bar {
+    font-size: 40px;
+    line-height: 30px;
+}
